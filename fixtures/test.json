@@ -1,0 +1,9 @@
+{
+  "action": "data service",
+  "service": "CustomerService",
+  "isService": false,
+  "payload": {
+    "action": "getName",
+    "parameters": ["Lago"]
+  }
+}
